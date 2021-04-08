@@ -1,4 +1,5 @@
 # **git 学习**
+这是一个链接 [Git官方文档](https://git-scm.com/book/zh/v2)
 
 ## 基本概念
 
@@ -13,4 +14,3 @@
 ```
 git init // 将当前目录作为git仓库
 ```
-
